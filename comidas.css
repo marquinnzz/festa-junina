@@ -1,3 +1,9 @@
+header {
+  background-color: #04195f;
+  color: white;
+  padding: 20px 10px;
+  text-align: center;
+}
 .menu-section {
       display: flex;
       flex-wrap: wrap;
@@ -20,10 +26,3 @@
       width: 100%;
       border-radius: 8px;
     }
-    
-header {
-  background-color: #04195f;
-  color: white;
-  padding: 20px 10px;
-  text-align: center;
-}
