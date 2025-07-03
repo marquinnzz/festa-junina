@@ -18,7 +18,7 @@ body {
     }
 
     form {
-      background-color: #bd3e03;
+      background-color: #044761;
       padding: 25px;
       border-radius: 10px;
       max-width: 500px;
@@ -46,7 +46,7 @@ body {
     button {
       margin-top: 20px;
       padding: 10px 20px;
-      background-color: orange;
+      background-color: rgb(0, 44, 109);
       color: white;
       border: none;
       border-radius: 5px;
