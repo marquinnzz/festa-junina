@@ -1,8 +1,8 @@
    header {
-      background-color: #f6950e;
+      background-color: #7e0e0e;
       padding: 20px;
       text-align: center;
-      border-bottom: 5px dashed #000000;
+      border-bottom: 5px dashed #ffffff;
     }
     .menu-section {
       display: flex;
@@ -14,12 +14,12 @@
 
     .item {
       background-color: #fff;
-      border: 2px solid #001488;
+      border: 2px solid #ffffff;
       border-radius: 10px;
       width: 200px;
       text-align: center;
       padding: 10px;
-      box-shadow: 2px 2px 10px rgba(0,0,0,0.1);
+      box-shadow: 2px 2px 10px #7e0e0e;
     }
 
     .item img {
