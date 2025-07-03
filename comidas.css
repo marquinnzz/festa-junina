@@ -1,6 +1,6 @@
 header {
-  background-color: #86009e;
-  color: rgb(255, 255, 255);
+  background-color: #e4cd00;
+  color: rgb(0, 0, 0);
   padding: 20px 10px;
   text-align: center;
 }
@@ -14,7 +14,7 @@ header {
 
     .item {
       background-color: #fff;
-      border: 2px solid #000000;
+      border: 2px solid #db7603;
       border-radius: 10px;
       width: 200px;
       text-align: center;
