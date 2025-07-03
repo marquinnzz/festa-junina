@@ -1,28 +1,29 @@
 body {
       background: #fff8dc;
       font-family: 'Comic Sans MS';
-      color: #5c3d00;
+      color: #ffffff;
       margin: 0;
       padding: 0;
     }
     header {
-      background-color: #000000;
+      background-color: #00758a;
       padding: 20px;
       text-align: center;
-      border-bottom: 5px dashed #d2691e;
+      border-bottom: 5px dashed #000000;
     }
     h1 {
       font-size: 2.5em;
       margin: 0;
+      color: #ffffff;
     }
 
     form {
-      background-color: #ee1616;
+      background-color: #bd3e03;
       padding: 25px;
       border-radius: 10px;
       max-width: 500px;
       margin: auto;
-      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     }
 
     label {
@@ -53,11 +54,11 @@ body {
     }
 
     button:hover {
-      background-color: darkorange;
+      background-color: rgb(196, 196, 196);
     }
 
      .botao-voltar {
-      background-color: orange;
+      background-color: rgb(255, 255, 255);
       color: white;
       padding: 10px 20px;
       border: none;
@@ -67,7 +68,7 @@ body {
     }
 
     .botao-voltar:hover {
-      background-color: darkorange;
+      background-color: rgb(196, 196, 196);
     }
     footer {
       background-color: #ffcc00;
