@@ -7,7 +7,7 @@ body {
     }
     header {
       background-color: #00758a;
-      padding: 20px;
+      padding: 20px 10px;
       text-align: center;
       border-bottom: 5px dashed #000000;
     }
