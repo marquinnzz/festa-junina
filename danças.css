@@ -1,9 +1,9 @@
    header {
-      background-color: #7e0e0e;
+      background-color: #eb4545;
       padding: 20px 10px;
       text-align: center;
-      border-bottom: 5px dashed #ffffff;
-    }
+      border-bottom: 5px dashed #7e0e0e;
+   }
     .menu-section {
       display: flex;
       flex-wrap: wrap;
