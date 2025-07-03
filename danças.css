@@ -1,6 +1,6 @@
    header {
       background-color: #7e0e0e;
-      padding: 20px;
+      padding: 20px 10px;
       text-align: center;
       border-bottom: 5px dashed #ffffff;
     }
@@ -29,3 +29,21 @@
     h1 {
       color: #fff;
     }
+
+nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-top: 10px;
+}
+
+nav ul li {
+  margin: 0 15px;
+}
+
+nav ul li a {
+  color: white;
+  text-decoration: none;
+  font-weight: bold;
+}
